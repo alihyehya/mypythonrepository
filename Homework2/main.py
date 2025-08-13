@@ -1,3 +1,3 @@
-from .features.feature1 import feature1_demo
+from .features.feature2 import feature2_demo
 
-feature1_demo()
+feature2_demo()
