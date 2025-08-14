@@ -55,14 +55,13 @@ def main_menu():
     print("6. **Schedule:** How long is the course and what is the typical schedule?")
     print("7. **Support:** How can students get help and collaborate during the course?")
     print("***************************************************")
-    a=input("Enter your answer (Number or Keyword) (Exit:-1): ")
+    a=input("Enter your question (Number or Keyword) (Exit:-1): ")
     return a
 def check_proceed():
     a=input("Do you have more questions? (Yes/No): ")
     if a.lower()=="yes":
         return True
     else:
-        print ("See you Later!")
         return False
 
 
