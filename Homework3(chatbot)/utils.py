@@ -13,7 +13,7 @@ qa={
     "projects":"You’ll complete a Capstone Project that brings together all skills learned — from Python fundamentals to AI integration, API development, and security — to create a comprehensive, real-world application.",
     "resources":"The course emphasizes structured Python practices, AI libraries, FastAPI, database connectors, GUI frameworks, and encryption tools.\n"
     "Official documentation, code examples, and hands-on practice form the core of the learning resources.",
-    "schedule":"The course runs over 7 sessions, covering 6 topics, plus 1 final capstone project.\n"
+    "schedule":"The course runs over 6 sessions, covering 6 topics, plus 1 final capstone project.\n"
     "The course sessions are held every saturday and sunday from 9:00 A.M to 11:00 A.M",
     "support":"Students can collaborate, share progress, and seek help via group discussions, Q&A support, and guided mentorship from the instructor\n"
     "Fostering a community of practice around advanced Python and AI development."
