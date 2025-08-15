@@ -1,0 +1,10 @@
+id,title,content,category_id,is_favourite,created_at
+1,Break work into small tasks,"Large projects feel less overwhelming when divided into smaller, manageable actions.",1,1,2025-08-15 13:56:10
+2,Use the Pomodoro technique,"Work for 25 minutes, then take a 5-minute break to maintain focus and avoid burnout.",1,0,2025-08-15 13:56:45
+3,Review your goals daily,A quick daily review keeps your priorities clear and motivation high.,1,0,2025-08-15 13:57:09
+4,Drink enough water,"Staying hydrated improves concentration, mood, and overall body function.",2,0,2025-08-15 14:00:50
+5,Take short movement breaks,"Stand, stretch, or walk briefly every hour to reduce stiffness and boost circulation.",2,1,2025-08-15 14:01:22
+6,Sleep at least 7–8 hours,"Adequate rest supports mental clarity, memory, and overall health.",2,0,2025-08-15 14:02:02
+7,Teach what you learn,Explaining concepts to others helps you understand and retain them better.,3,0,2025-08-15 14:02:46
+8,Practice spaced repetition,Reviewing material at increasing intervals strengthens long-term memory.,3,0,2025-08-15 14:03:37
+9,Learn by building projects,Applying knowledge in real projects makes learning practical and memorable.,3,1,2025-08-15 14:03:57
